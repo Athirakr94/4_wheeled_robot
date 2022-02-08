@@ -7,7 +7,7 @@
     <arg name="headless" default="false"/>
     <arg name="debug" default="false"/>
     <!-- <arg name="model" default="simple"/> -->
-    <arg name="model" default="4_wheeled"/>
+    <arg name="model" default="four_wheel"/>
 
 
     <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
